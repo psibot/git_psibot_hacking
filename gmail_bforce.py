@@ -46,4 +46,3 @@ for password in passwfile:
         except smtplib.SMTPAuthenticationError:
                 print colored('[!]', 'red'), colored('Password Incorrect', 'green') 
                 print ": %s" % password
-
