@@ -1,6 +1,7 @@
 # Program: Gmail Dictionary Attack v3
 # Author: psibot
 # Purpose: Brute force smtp.gmail.com using a dictionary attack over TLS. 
+# Use TOR when using this tool.
 
 import smtplib
 import time 
