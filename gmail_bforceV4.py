@@ -19,7 +19,7 @@ cmd =  'sendemail -f xxyourmailxxx@gmail.com  -t xxyourmailxxx@gmail.com -s smtp
 def logo():
   print ''
   cprint('-------------------------------', 'green',attrs=['bold'])
-  print colored('[+]', 'red'), colored('Google Gmail Dictionary Attack V3', 'red')
+  print colored('[+]', 'red'), colored('Google Gmail Dictionary Attack V4', 'red')
   print colored('[+]', 'red'), colored('....Find anything!.....', 'green')
   cprint('-------------------------------', 'green',attrs=['bold'])
   print R+"\n|---------------------------------------------------------------|"
