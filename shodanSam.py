@@ -1,7 +1,6 @@
 #!/usr/bin/env python2
 # Program: SSH Dictionary Attack v1
 # Author: psibot
-# Purpose: Brutforce SSH !!!
 # SCRIPT ONLY WORKS PYTHON V2
 import nmap
 import time
