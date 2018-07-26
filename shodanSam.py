@@ -35,7 +35,7 @@ def logo():
   print "  \       \    Y    (  <_> ) /_/ | / __ \|   |  \               |"
   print "/_______  /\___|_  / \____/\____ |(____  /___| /                |"
   print "      \/       \/             \/     \/     \/                  |"
-  print "|   d3am0n711[@]gmail[dot]com                                   |"
+  print "|   psibot                                                      |"
   print "|   THIS will be only used for testing                          |"
   print "|---------------------------------------------------------------|\n"
   print W
