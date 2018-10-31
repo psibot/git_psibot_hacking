@@ -1,6 +1,6 @@
 #!/bin/bash
 # SCRIPT:  myip.sh
-# REV: Version 3.0
+# REV: Version 4.0
 # PLATFORM: Linux
 # AUTHOR: psibot
 # PURPOSE: Info from your current IP
